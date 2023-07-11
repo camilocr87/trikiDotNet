@@ -1,0 +1,8 @@
+C:\Users\RADIO\source\repos\Videojuego_Triki\Videojuego_Triki\bin\Debug\Videojuego_Triki.exe.config
+C:\Users\RADIO\source\repos\Videojuego_Triki\Videojuego_Triki\bin\Debug\Videojuego_Triki.exe
+C:\Users\RADIO\source\repos\Videojuego_Triki\Videojuego_Triki\bin\Debug\Videojuego_Triki.pdb
+C:\Users\RADIO\source\repos\Videojuego_Triki\Videojuego_Triki\obj\Debug\Videojuego_Triki.csproj.AssemblyReference.cache
+C:\Users\RADIO\source\repos\Videojuego_Triki\Videojuego_Triki\obj\Debug\Videojuego_Triki.csproj.SuggestedBindingRedirects.cache
+C:\Users\RADIO\source\repos\Videojuego_Triki\Videojuego_Triki\obj\Debug\Videojuego_Triki.csproj.CoreCompileInputs.cache
+C:\Users\RADIO\source\repos\Videojuego_Triki\Videojuego_Triki\obj\Debug\Videojuego_Triki.exe
+C:\Users\RADIO\source\repos\Videojuego_Triki\Videojuego_Triki\obj\Debug\Videojuego_Triki.pdb
